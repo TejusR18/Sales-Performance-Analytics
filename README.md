@@ -98,7 +98,7 @@ The analysis explores the following business questions:
 
 The Power BI dashboard provides an interactive view of sales performance, profitability, product/category comparisons, monthly revenue trends, and forecasting.
 
-SalesAnalyticsDashboard.png
+![Sales Performance Dashboard](SalesAnalyticsDashboard.png)
 
 ### Dashboard Features
 - KPI cards for key sales and profitability metrics.
@@ -154,7 +154,7 @@ Sales-Performance-Analytics/
 
 ---
 
-**Author:** Tejus R.
+**Author:** Tejus.R
 
 **Project:** Sales Performance Analytics
 
